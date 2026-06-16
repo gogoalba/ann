@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "longbridge.com",
+        "longbridge.cn",
+        "longbridge.hk",
+        "longbridge.sg",
+        "longbridge.global",
+        "longbridgehk.com",
+        "longportapp.com",
+        "longportapp.cn",
+        "longbridgeapp.com",
+        "lbkrs.com",
+        "lbctrl.com",
+        "longbridgewhale.com",
+        "longportwhale.com",
+        "longbridge.cloud"
+      ],
+      "domain": [
+        "longbridge.github.io",
+        "longportapp.github.io",
+        "longbridge.activity.wbrks.com"
+      ]
+    }
+  ]
+}
